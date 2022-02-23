@@ -13,5 +13,7 @@ program pruebafinal
     write(*,*)'A=', A 
     !no hacer para n>10
     !problema resuelto 
+    !no compila 
     
+
 end program pruebafinal 
