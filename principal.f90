@@ -14,7 +14,8 @@ program pruebafinal
     !no hacer para n>10
     !problema resuelto 
     !no compila 
-    !cambio realizado por usuario2
+    !cambio realizado por Miguel
+    
     
 
 end program pruebafinal 
